@@ -3,7 +3,7 @@ Developer: Nilesh Modhwadiya
 Tags: unsplash image, random background image, section background image
 Requires at least: 4.9
 Tested up to: 5.0
-Stable tag: 5.1.1
+Stable tag: 5.1.1 
 
 Just random background image plugin. Simple and flexible.
 
